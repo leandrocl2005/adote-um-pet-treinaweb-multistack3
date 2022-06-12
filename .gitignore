@@ -1,0 +1,4 @@
+django-backend/env
+django-backend/db.sqlite3
+django-backend/**/__pycache__
+next-react-frontend/node_modules
